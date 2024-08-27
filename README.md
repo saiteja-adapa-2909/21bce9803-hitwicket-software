@@ -10,7 +10,7 @@ Node.js and npm (or yarn) installed on your system.
 
 2. Installation:
 Clone the repository to your local machine:
-git clone [https://github.com/saiteja-adapa-2909/21bce9803-hitwicket-software](https://github.com/saiteja-adapa-2909/VVT_SAITEJA_ADAPA-21bce9803-hitwicket-software)
+git clone https://github.com/saiteja-adapa-2909/VVT_SAITEJA_ADAPA-21bce9803-hitwicket-software
 
 3. Navigate to the project directory:
 cd hitwicket-chess
